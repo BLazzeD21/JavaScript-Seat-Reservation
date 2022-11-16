@@ -1,1 +1,1 @@
-'# JavaScript arrays practice seat reservation' 
+# JavaScript arrays practice seat reservation
